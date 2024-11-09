@@ -1,0 +1,155 @@
+body{
+    overflow-x: hidden;
+}
+/* .img_11{
+    margin-top: 55px;
+    background-image: url(img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center; 
+    /* clip-path: polygon(70% 0, 100% 0, 100% 100%, 43% 100%); */
+   
+
+/* } */
+.img_11{
+    height: 500px;
+} */
+.navbar{
+    display: flex;
+    position: fixed;
+    width: 100%;
+}
+
+@media (max-width="550px") {
+    .ishonch {
+        width: 100%;        
+    }
+}
+.petrol h6{
+    overflow-y: hidden;
+}
+.barss {
+    display: block;
+    
+}
+.nav_ss{
+    width: 90%;
+    margin-left: 25px;
+}
+.petrol button{
+    border-radius: 20px;
+    width: 50px;
+    height: 50px;
+}
+.knopka{
+    margin-top: 15px;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 5px 8px yellow;
+}
+.name{
+    background-color: rgb(252, 250, 250);
+}
+.book{
+    background-color: yel;
+}
+.book p{
+    width:50%;
+    margin-left: 25%;
+}
+.book{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(252, 250, 250);
+}
+.rasm img{
+    width: 30%;
+
+}
+.rasm div{
+    border: 1px solid black;
+    padding: 25px;
+    width: 20%;
+    border-radius: 20px;
+    background-color: white;
+    width: 50px;
+}
+.rasm{
+    gap: 20px;
+    padding: 20px;
+    margin-left: 20px;
+}
+.narx{
+    margin-top: 250px;
+
+}
+.benzin{
+    justify-content: space-between;
+}
+#cars{
+    width: 250px;
+    height: 50px;
+    border-radius: 8px;
+}
+.hover button{
+    width: 250px;
+    height: 50px;
+}
+.hover div{
+    background-color:rgb(252, 250, 250) ;
+    padding: 25px;
+    
+}
+.navbat{
+    justify-content: center;
+    align-items: center;
+}
+.Intellekt{
+    display: flex;
+    justify-content: space-between;
+}
+.font a{
+    padding: 10px 10px;   
+    font-size: 25px;
+    align-items: center; 
+}
+.font a:hover{
+    background-color:rgb(252, 250, 250);
+    
+    transform: rotate(360deg);
+    transition: 0.3s ease-in-out;
+}
+.video video{
+    width: 100%;
+    gap: 25px;
+}
+.video a{
+    text-decoration: none;
+    color: black;
+}
+video a:hover{
+    color: yellow;
+}
+.aksiya{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#textarea{
+    height: 80px;
+    border-radius: 10px;
+}
+.yuborish button{
+    display: flex;
+    justify-content: center;
+    margin-left: 40%;
+    align-items: center;
+}
+@media screen {
+    
+}
